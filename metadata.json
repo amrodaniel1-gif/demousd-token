@@ -1,0 +1,6 @@
+{
+  "name": "DemoUSD",
+  "symbol": "DUSD",
+  "description": "Educational test token on Solana Devnet. Not real USD or USDC.",
+  "image": "https://raw.githubusercontent.com/amrodaniel1-gif/demousd-token/main/usd%20-logo.png"
+}
